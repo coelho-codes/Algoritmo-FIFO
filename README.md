@@ -1,2 +1,3 @@
 # Utilizando algoritmo FIFO em Python 👩‍💻🐍
-## Pequeno projeto realizado para o treinamento de lógica de programação na linguagem Python :)
+### FIFO(First In First Out) é um algoritmo da Ciência da Programação, para estruturas de dados do tipo fila.
+### Realizei esse pequeno projeto com o intuito de treinar minha lógica de programação na linguagem Python :)
